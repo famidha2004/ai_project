@@ -1,0 +1,14 @@
+flask==2.3.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.6
+wikipedia==1.4.0
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
+gunicorn==20.1.0
+click==8.1.3
+itsdangerous==2.1.2
+jinja2==3.1.2
+markupsafe==2.1.1
+werkzeug==2.3.0
